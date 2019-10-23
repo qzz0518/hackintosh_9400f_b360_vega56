@@ -16,12 +16,12 @@
 
 ## 完善程度：
 
-系统版本：macOS Mojave 10.14.6
+系统版本：macOS Mojave 10.14.6<br>
 SMBIOS：iMac Pro 1.1
 
-* 蓝牙 + Wifi + 接力（Hand Off） 正常
+* 蓝牙 + Wifi + 接力（ Hand Off ） 正常
 * 显卡 H264，HEVC 硬解正常
-* 机箱前置 USB3.0 接口 ，使用 USB 2.0 及 3.0 设备正常
+* 机箱前置 USB 3.0 接口 ，使用 USB 2.0 及 3.0 设备正常
 * 重启休眠正常
 
 ## 问题
