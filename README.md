@@ -23,7 +23,8 @@ SMBIOS：iMac Pro 1.1
 * 显卡 H264，HEVC 硬解正常
 * 机箱前置 USB 3.0 接口 ，使用 USB 2.0 及 3.0 设备正常
 * 重启休眠正常
+* 后置蓝绿口 USB 3.1 Gen 1 和 USB 3.1 Gen 2 及 USB 2.0 设备识别正常
 
 ## 问题
 
-后置 USB-C 口，暂时只支持 USB 3.1 Gen 1，不支持 USB 2.0 和 USB 3.1 Gen 2，插入非 USB 3.1 Gen 1 不会被识别。
+后置 USB-C 口，只支持 USB 3.1 Gen 1，不支持 USB 2.0 的 USB-C 设备
