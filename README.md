@@ -11,19 +11,18 @@
 | 固态 | INTEL 760P 256G |
 | 网卡 | BCM94360 |
 | 机箱 | 乔思伯（JONSBO）RM3 |
-| 显示器 | DELL U2518D 2K |
 
 
 ## 完善程度：
 
-系统版本：macOS Mojave 10.15.2 (此 EFI 同时支持 10.14.x)<br>
+系统版本：macOS Catalina 10.15.2 (此 EFI 同时支持 10.14.x)<br>
 SMBIOS：iMac Pro 1.1
 
 * 蓝牙 + Wifi + 接力（ Hand Off ） 正常
 * 显卡 H264，HEVC 硬解正常
-* 机箱前置 USB 3.0 接口 ，使用 USB 2.0 及 3.0 设备正常
+* 机箱前置 USB 3.0 接口所有设备正常
 * 重启休眠正常
-* 后置蓝绿口 USB 3.1 Gen 1 和 USB 3.1 Gen 2 及 USB 2.0 设备识别正常
+*  主板后置蓝绿口 USB 3.0 接口所有设备正常
 
 ## 问题
 
