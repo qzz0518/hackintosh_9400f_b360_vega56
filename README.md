@@ -15,7 +15,7 @@
 
 ## 完善程度：
 
-系统版本：macOS Catalina 10.15.2 (此 EFI 同时支持 10.14.x)<br>
+系统版本：macOS Catalina 10.15.3 (此 EFI 同时支持 10.14.x)<br>
 SMBIOS：iMac Pro 1.1
 
 * 蓝牙 + Wifi + 接力（ Hand Off ） 正常
