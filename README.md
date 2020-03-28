@@ -15,14 +15,14 @@
 
 ## 完善程度：
 
-系统版本：macOS Catalina 10.15.3 (此 EFI 同时支持 10.14.x)<br>
+系统版本：macOS Catalina 10.15.4 (此 EFI 同时支持 10.14.x)<br>
 SMBIOS：iMac Pro 1.1
 
 * 蓝牙 + Wifi + 接力（ Hand Off ） 正常
 * 显卡 H264，HEVC 硬解正常
 * 机箱前置 USB 3.0 接口所有设备正常
 * 重启休眠正常
-*  主板后置蓝绿口 USB 3.0 接口所有设备正常
+* 主板后置蓝绿口 USB 3.0 接口所有设备正常
 
 ## 问题
 
