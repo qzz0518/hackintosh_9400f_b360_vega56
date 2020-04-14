@@ -103,8 +103,6 @@
 	</dict>
 	<key>Boot</key>
 	<dict>
-		<key>Arguments</key>
-		<string>rtcfx_exclude=00-FF</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>Debug</key>
