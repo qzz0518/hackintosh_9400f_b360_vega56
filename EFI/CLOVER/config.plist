@@ -31,9 +31,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>V0VoRE1R</data>
+					<data>
+					V0VoRE1R
+					</data>
 					<key>Replace</key>
-					<data>V0VoRFh3</data>
+					<data>
+					V0VoRFh3
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -41,9 +45,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>RUhDMQ==</data>
+					<data>
+					RUhDMQ==
+					</data>
 					<key>Replace</key>
-					<data>RUgwMQ==</data>
+					<data>
+					RUgwMQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -51,9 +59,13 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>RUhDMg==</data>
+					<data>
+					RUhDMg==
+					</data>
 					<key>Replace</key>
-					<data>RUgwMg==</data>
+					<data>
+					RUgwMg==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
@@ -61,11 +73,17 @@
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>X1NUQQ==</data>
+					<data>
+					X1NUQQ==
+					</data>
 					<key>Replace</key>
-					<data>WFNUQQ==</data>
+					<data>
+					WFNUQQ==
+					</data>
 					<key>TgtBridge</key>
-					<data>UlRDXw==</data>
+					<data>
+					UlRDXw==
+					</data>
 				</dict>
 			</array>
 			<key>ReuseFFFF</key>
