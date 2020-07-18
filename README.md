@@ -15,6 +15,7 @@
 ## 版本状态：
 
 系统版本：macOS Catalina 10.15.6
+
 SMBIOS：iMac Pro 1.1
 
 * 蓝牙 + Wifi + 接力（ Hand Off ） 正常
