@@ -14,41 +14,39 @@
 
 ## 版本状态：
 
-系统版本：macOS Catalina 10.15.6
+系统版本：macOS Big Sur 11.1
 
 SMBIOS：iMac Pro 1.1
 
-* 蓝牙 + Wifi + 接力（ Hand Off ） 正常
-* 显卡 H264，HEVC 硬解正常
-* 机箱前置 USB 3.0 接口所有设备正常
-* 重启休眠正常
-* 主板后置蓝绿口 USB 3.0 接口所有设备正常
+## 说明
 
-## 问题
+配置参考于
 
-* 后置 USB-C 口，只支持 USB 3.1 Gen 1，不支持 USB 2.0 的 USB-C 设备
+@Leichunh [远景链接](http://bbs.pcbeta.com/forum.php?mod=viewthread&tid=1876085)
 
-### 重启/关机 BIOS 被重置解决办法
+如果你是 10.15.* 直升 11.1 可能会遇到进入安装页面无限重启的情况，请使用 u 盘制作 11.1 的启动盘并使用启动盘升级你的系统。
 
-如果您的主板在 10.15.4 及以上版本中，主动重启或者关机时，BIOS 被重置，提示需要点击 F1 才能跳过提示进入系统，请按照以下步骤操作：
+## 请自行 config 添加三码
 
-#### 解决方法 1
-
-1. 打开终端，进入到下载好的 `boot.efi` 目录中，如提示输入密码，请输入系统密码
-
-```shell
-sudo mount -uw /
-sudo mv boot.efi /System/Library/CoreServices
 ```
-
-2. 重启即可
-
-#### 解决方法 2
-
-1. 打开终端，直接执行如下命令，此方法不需要替换系统文件中的 `boot.efi` 
-
-```shell
-sudo nvram wake-failure=%00%00%00%00%00
+<dict>
+	<key>AdviseWindows</key>
+	<false/>
+	<key>MLB</key>
+	<string>请修改我</string>
+	<key>ProcessorType</key>
+	<integer>0</integer>
+	<key>SystemMemoryStatus</key>
+	<string>Auto</string>
+	<key>ROM</key>
+	<data></data>
+	<key>SpoofVendor</key>
+	<true/>
+	<key>SystemProductName</key>
+	<string>iMacPro1,1</string>
+	<key>SystemSerialNumber</key>
+	<string>请修改我</string>
+	<key>SystemUUID</key>
+	<string>请修改我</string>
+</dict>
 ```
-2. 重启即可
-
